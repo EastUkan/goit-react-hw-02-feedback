@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  width: 100px;
+  height: 40px;
+  border: 1px solid;
+}
